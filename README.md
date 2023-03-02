@@ -12,7 +12,7 @@ Secondary Goals:
 - Autodetect dead image links?
 
 Resources:
-- For a previous effort (AIFap), a list of ~1500 subreddits to scrape roughly categorized by art-type, orientation, and tags: [GoogleSheet](https://docs.google.com/spreadsheets/d/1G--uYCNwe_kTJhwXetRLPyUQSYySi-3Qtz2KXv2m-no/edit?usp=sharing)
+- A [google sheet](https://docs.google.com/spreadsheets/d/1G--uYCNwe_kTJhwXetRLPyUQSYySi-3Qtz2KXv2m-no/edit?usp=sharing) of ~1500 subreddits to scrape roughly categorized by art-type, orientation, and tags.
 - [List of tags](/Resources/BF_Tags.txt) used in BunnyFap
 
 Previous Efforts by Others:
